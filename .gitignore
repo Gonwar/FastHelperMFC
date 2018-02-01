@@ -1,0 +1,5 @@
+release/
+debug/
+base.db
+Makefile.*
+settings.ini
